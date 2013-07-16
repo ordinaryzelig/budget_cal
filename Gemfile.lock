@@ -1,0 +1,16 @@
+PATH
+  remote: ../ics
+  specs:
+    ics (0.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  ics!
